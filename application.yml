@@ -1,10 +1,11 @@
 security:
   basic:
-    enabled: false
+    enabled: true
 
 management:
   security:
     enabled: false
+    clearwater: true
 
 logging:
   level:
